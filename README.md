@@ -29,7 +29,7 @@ A decision tree is trained by making 'splits' based on some attribute test condi
 
 Each test observation is passed through the tree, starting at the root node until it reaches a leaf which is the predicted class label.
 
-![dtc error](.\figures\dtc_error.png)
+![dtc error](dtc_error.png)
 
 ![dtc error box plot](.\figures\dtc_error_box_plot.png)
 
